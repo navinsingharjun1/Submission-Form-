@@ -49,7 +49,7 @@ return (
                 <label> Contact*</label>
                 <input type="number" placeholder="091+" value={phone} onChange={handlePhone}/>
                 <br/>
-                <input className="btn" value={"Submit"} type="submit"/>
+                <input className="btn pulse-button" value={"Submit"} type="submit"/>
                 
             </form>
         </div>
